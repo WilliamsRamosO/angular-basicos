@@ -1,0 +1,2 @@
+- Crear un nuevo componente
+ng g c heroes/listado
